@@ -1,0 +1,7 @@
+how to install Angular app --->  npx @angular/cli@16 new my-demo-app-16
+
+how to start Angular app --->    npm start     (in app folder whit package.json!)
+
+generate new component ---->     npm run ng generate component [name] 
+
+install 'BootStrap' ---->  npm install bootstrap  -->  angular.json ---> "styles": [ add link! --> "node_modules/bootstrap/dist/css/bootstrap.min.css", "src/styles.css"]
